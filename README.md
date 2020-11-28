@@ -2,13 +2,6 @@
 
 | Stuxnet Source &amp; Binaries. + PLC Samples, and other things.
 
------------------------------------------
-
-**ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES**
-#
------------------------------------------
-**If you do not know what you are doing here, now would be a great time to leave!**
-
 
 -----------------------------------------
 Includes:
@@ -16,6 +9,13 @@ Includes:
 - Binaries,
 - PLC Sample program - [with usage, etc.]
 -----------------------------------------
+-----------------------------------------
+
+**ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES**
+#
+-----------------------------------------
+**If you do not know what you are doing here, now would be a great time to leave!**
+(Only proceed if you **do know** what you are doing)
 
 
 **Please Be careful with this. This is only for research and Educational Purposes.**

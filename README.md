@@ -14,6 +14,11 @@ Malware samples I have, which I *may* provide for further research:
    
 - Flame( Aka, SKyWiper, Flame, FlameR!, PROPS_FLAME, )
 
+- https://www.zdnet.com/article/five-years-after-the-equation-group-hdd-hacks-firmware-security-still-sucks/
+- https://www.wired.com/2015/02/nsa-firmware-hacking/
+- https://www.theregister.com/2015/02/17/kaspersky_labs_equation_group/
+
+
 
 ## TREE OVERVIEW ##
 

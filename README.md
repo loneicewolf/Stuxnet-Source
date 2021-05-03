@@ -1,7 +1,7 @@
 # Stuxnet-Source
-## Related: Agent.btz (finally!) added binary sample:  (more coming) https://github.com/loneicewolf/Agent.btz
 
-### Related to fanny.bmp https://github.com/loneicewolf/fanny.bmp
+Related: Agent.btz (finally!) added binary sample:  (more coming) https://github.com/loneicewolf/Agent.btz
+Related to fanny.bmp https://github.com/loneicewolf/fanny.bmp
 STUXNET is a Worm that attacked Nuclear Power plants, trough unusual Vulns. So-called 0Day Vulns.
 
 
@@ -12,26 +12,20 @@ STUXNET is a Worm that attacked Nuclear Power plants, trough unusual Vulns. So-c
 Includes:
 - Source files,
 - Binaries,
-- PLC Sample program - [with usage, etc.]
+- PLC Sample program
+- 
 
-Malware samples I have, which I *may* provide for further research:
 - Fanny (known as fanny.bmp or, the classical a,b,c,d,e,...,__j__.lnk worm, propagates trough Removable USB devices, which has a extremely sophisticated Rootkit, which not only hides itself, but adds itself at startup in the reg in windows machines, but it has also some other, quite shocking capabilities, such as a submodule to re-program hardware, (more specifically, HDD's Firmware) for **Extreme persistence.**)
    It exploited same vulns as Stuxnet did, and has striking similarities with it, and was used **before even Stuxnet was used**)
    
    Link to fanny.bmp: https://github.com/loneicewolf/fanny.bmp
-   
-   
-   
-- Flame( Aka, SKyWiper, Flame, FlameR!, PROPS_FLAME, )
-
+  
+- Flame( Aka, SKyWiper, Flame, FlameR!, PROPS_FLAME)
 - https://www.zdnet.com/article/five-years-after-the-equation-group-hdd-hacks-firmware-security-still-sucks/
 - https://www.wired.com/2015/02/nsa-firmware-hacking/
 - https://www.theregister.com/2015/02/17/kaspersky_labs_equation_group/
 
-
-
-## TREE OVERVIEW ##
-
+## TREE OVERVIEW  ###
 Overview of Files in FILES.ZIP
 
 STUXNET.DLL_EMBEDDED_RSRCS:

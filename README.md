@@ -1,10 +1,12 @@
 # Stuxnet-Source
 
-Related: Agent.btz (finally!) added binary sample:  (more coming) https://github.com/loneicewolf/Agent.btz
-Related to fanny.bmp https://github.com/loneicewolf/fanny.bmp
-STUXNET is a Worm that attacked Nuclear Power plants, trough unusual Vulns. So-called 0Day Vulns.
+*(Password below), on last line*
 
+- Related: Agent.btz (finally!) added binary sample:  (more coming) https://github.com/loneicewolf/Agent.btz
+- Related to fanny.bmp https://github.com/loneicewolf/fanny.bmp
 
+## STUXNET
+*is a Worm that attacked Nuclear Power plants, trough unusual Vulns. So-called 0Day Vulns.*
 
 
 ## Basic Overview:
@@ -91,10 +93,11 @@ BINS:
 
 
 
-
 **ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES**
-#
+
+
 -----------------------------------------
+
 **If you do not know what you are doing here, now would be a great time to leave!**
 (Only proceed if you **do know** what you are doing)
 
@@ -103,7 +106,5 @@ BINS:
 - **Nevertheless It goes without saying that even if you run these in a Virtual Machine, I would [still] USE CAUTION.**
 
 
-
 ## Password:
 INFECTEDIKNOWWHATIAMDOING
-

@@ -15,7 +15,9 @@ Includes:
 - Source files,
 - Binaries,
 - PLC Sample program
-- 
+
+---
+
 
 - Fanny (known as fanny.bmp or, the classical a,b,c,d,e,...,__j__.lnk worm, propagates trough Removable USB devices, which has a extremely sophisticated Rootkit, which not only hides itself, but adds itself at startup in the reg in windows machines, but it has also some other, quite shocking capabilities, such as a submodule to re-program hardware, (more specifically, HDD's Firmware) for **Extreme persistence.**)
    It exploited same vulns as Stuxnet did, and has striking similarities with it, and was used **before even Stuxnet was used**)
@@ -29,6 +31,9 @@ Includes:
 
 ## TREE OVERVIEW  ###
 Overview of Files in FILES.ZIP
+
+---
+
 
 STUXNET.DLL_EMBEDDED_RSRCS:
 
@@ -46,7 +51,13 @@ STUXNET.DLL_EMBEDDED_RSRCS:
     bin242.bin
     bin250.bin
 
+---
+
+
 STEP7:
+
+---
+
 
     STL-cheat-sheet-by-category.pdf -'STL-cheat-sheet-by-alphabet (1).pdf'
     S_ST70_XX_00030V.TIF
@@ -54,7 +65,13 @@ STEP7:
     HW_e.gif
     25209116_STEP7Example.zip
 
+---
+
+
 BINS:
+
+---
+
 
     '~WTR4141_J_37FC7C5D89F1E5A96F54318DF1A2B905.dll'
     wincc_kernel32.dll.aslr.00013b86.livebin.exe
@@ -92,6 +109,9 @@ BINS:
     'A_30DF51C9F0D9B010350DC09ABE1E4E97.ex$'
 
 
+---
+
+
 
 **ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES**
 
@@ -101,10 +121,14 @@ BINS:
 **If you do not know what you are doing here, now would be a great time to leave!**
 (Only proceed if you **do know** what you are doing)
 
+---
+
+
 
 **Please Be careful with this. This is only for research and Educational Purposes.**
 - **Nevertheless It goes without saying that even if you run these in a Virtual Machine, I would [still] USE CAUTION.**
 
+---
 
 ## Password:
 INFECTEDIKNOWWHATIAMDOING

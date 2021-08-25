@@ -1,6 +1,18 @@
 # Stuxnet-Source
+---
+### MAJOR update coming soon:
+I will (when  I am done with the OSCP I am currently enrolling in)
+Soon create & upload the following:
+ - Recording (From scratch(0%), to 100%) of when StuXnet infects a PLC (although a virtual one, since I have not *real* access to a nuclear reactor.. For.. well, quite - **obvious reasons.**
+ - Recording (again, From 0 to 100%)  of how one can "re-weaponize" Fanny.bmp (or,DementiaWheel as it's codename suggests) the USB-Backdoor to carry commands from & to Metasploit. (This is tested and, let's just say - it works, but needs improvement. (Massive improvements that is)) <- Still working on it.
+ - A mini-library written in C (in combination with Lua) to make (the 2 points above ) a **bit** more user-friendly 
+ -    (JUST so you don't need to be a debugger-professional to understand how to get a reverse shell trough fanny's USB Backdoor for example.)
 
-*(Password below), on last line*
+---
+
+
+
+                                                  *(Password below), on last line*
 
 - **(directly)** Related to fanny.bmp https://github.com/loneicewolf/fanny.bmp
 - (Not directly - but *somehow*) Related: Agent.btz (finally!) added binary sample:  (more coming) https://github.com/loneicewolf/Agent.btz

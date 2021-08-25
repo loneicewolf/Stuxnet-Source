@@ -2,12 +2,11 @@
 
 *(Password below), on last line*
 
-- Related: Agent.btz (finally!) added binary sample:  (more coming) https://github.com/loneicewolf/Agent.btz
-- Related to fanny.bmp https://github.com/loneicewolf/fanny.bmp
+- **(directly)** Related to fanny.bmp https://github.com/loneicewolf/fanny.bmp
+- (Not directly - but *somehow*) Related: Agent.btz (finally!) added binary sample:  (more coming) https://github.com/loneicewolf/Agent.btz
 
 ## STUXNET
-*is a Worm that attacked Nuclear Power plants, trough unusual Vulns. So-called 0Day Vulns.*
-
+*is a Worm that attacked Nuclear Power plants, trough unusual vulnerabilities. So-called 0Day vulnerabilities.*
 
 ## Basic Overview:
 
@@ -18,8 +17,10 @@ Includes:
 
 ---
 
+### fanny.bmp - (malware) what is it?
+- Fanny (known as fanny.bmp or, the classical a,b,c,d,e,...,__j__.lnk worm,(Is (likely) **not ** visible in Windows XP and such, (but I have seen some versions of it where it has a,b and c - all the way up to j)- on other versions of Windows.  
 
-- Fanny (known as fanny.bmp or, the classical a,b,c,d,e,...,__j__.lnk worm, propagates trough Removable USB devices, which has a extremely sophisticated Rootkit, which not only hides itself, but adds itself at startup in the reg in windows machines, but it has also some other, quite shocking capabilities, such as a submodule to re-program hardware, (more specifically, HDD's Firmware) for **Extreme persistence.**)
+- Propagates trough Removable USB devices, which has a extremely sophisticated Rootkit, which not only hides itself, but adds itself at startup in the reg in windows machines, but it has also some other, quite shocking capabilities, such as a submodule to re-program hardware, (more specifically, HDD's Firmware) for **Extreme persistence.**)
    It exploited same vulns as Stuxnet did, and has striking similarities with it, and was used **before even Stuxnet was used**)
    
    Link to fanny.bmp: https://github.com/loneicewolf/fanny.bmp

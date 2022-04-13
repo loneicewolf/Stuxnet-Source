@@ -1,13 +1,32 @@
 # Stuxnet-Source
----
-### MAJOR update coming soon:
-I will (when  I am done with the OSCP I am currently enrolling in)
-Soon create & upload the following:
- - Recording (From scratch(0%), to 100%) of when StuXnet infects a PLC (although a virtual one, since I have not *real* access to a nuclear reactor.. For.. well, quite - **obvious reasons.**
+
+
+## MAJOR UPDATE: 
+will soon update this one with a live-demo of a simulated PLC workstation, which will be infiltrated(as a first step) (offline; (airgapped)) with fanny.bmp and then StuxNet; (and; why not infect it with gauss/duqu/regin and flame as well??) and try it on different types (64 bit; 32 bit; win xp; vista; ...)
+even though it (was designed) to just work on 1 specific thing; which had one specific PLC-config-block(you name it); it would do some;things like mark the system "don't infect this one; this is not the correct target" or.. "don't re infect this system; I am on it"-StuxnetWorm (how it *probably* reasoning)
+
+anyway; Will do this after my OSCP exam is passed;
+and when I verified I really do have the knowledge; not just 'passing'. But for this repo I will update it just after I have passed my OSCP exam.
+
+please; contact me for further details. mail and discord can be found on my Github Profile.
+
+
+**`will clean this up later.`**
+
+```
+
+```
+-------------------------
+
+```
+
+```
+
+Old "update" message.
+--- - Recording (From scratch(0%), to 100%) of when StuXnet infects a PLC (although a virtual one, since I have not *real* access to a nuclear reactor.. For.. well, quite - **obvious reasons.**
  - Recording (again, From 0 to 100%)  of how one can "re-weaponize" Fanny.bmp (or,DementiaWheel as it's codename suggests) the USB-Backdoor to carry commands from & to Metasploit. (This is tested and, let's just say - it works, but needs improvement. (Massive improvements that is)) <- Still working on it.
  - A mini-library written in C (in combination with Lua) to make (the 2 points above ) a **bit** more user-friendly 
  -    (JUST so you don't need to be a debugger-professional to understand how to get a reverse shell trough fanny's USB Backdoor for example.)
-
 ---
 
 

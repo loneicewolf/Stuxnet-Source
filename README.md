@@ -1,6 +1,6 @@
 # Stuxnet-Source
 
-related: ### [Fanny.bmp - the Precursor to STUXNET](https://github.com/loneicewolf/fanny.bmp)
+related: [Fanny.bmp - the Precursor to STUXNET](https://github.com/loneicewolf/fanny.bmp)
 
 
 

@@ -1,8 +1,10 @@
 # Stuxnet-Source
 
-related: https://github.com/loneicewolf/ReverseEngineering
+related: ### [Fanny.bmp - the Precursor to STUXNET](https://github.com/loneicewolf/fanny.bmp)
 
-## right now it is text and stuff all over the place; will clean it up (therefore Branch #2)
+
+
+#### right now it is text and stuff all over the place; will clean it up (therefore Branch #2)
 [2nd branch](https://github.com/loneicewolf/Stuxnet-Source/tree/2022_clean)
 
 

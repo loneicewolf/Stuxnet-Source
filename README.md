@@ -1,7 +1,12 @@
 # Stuxnet-Source
 
-related: [Fanny.bmp - the Precursor to STUXNET](https://github.com/loneicewolf/fanny.bmp)
+### related:
+- [Fanny.bmp - the Precursor to STUXNET](https://github.com/loneicewolf/fanny.bmp)
 
+- [Gauss](Https://github.com/loneicewolf/Gauss-Src)
+- [Stars](https://github.com/loneicewolf/Stars-virus)
+- [Duqu](https://github.com/loneicewolf/DUQU)
+- [FlamER](https://github.com/loneicewolf/flame-sourcecode)
 
 
 #### right now it is text and stuff all over the place; will clean it up (therefore Branch #2)

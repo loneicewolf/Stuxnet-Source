@@ -1,8 +1,5 @@
 Overview of Files in FILES.ZIP
 
-
-
-
 ### STUXNET.DLL_EMBEDDED_RSRCS:
  - bin201.bin
  - bin202.bin

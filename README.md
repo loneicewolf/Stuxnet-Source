@@ -1,5 +1,7 @@
 # Stuxnet-Source
-- Related to `Brutal_Kangaroo` 
+- Related to `Brutal_Kangaroo`
+- (In)Directly related to the [nls_933w.dll file](https://github.com/loneicewolf/nls_933w_dll)
+- 
 # please find it [here **only_malware**](https://github.com/loneicewolf/Stuxnet-Source/tree/ONLY_MALWARE)
 
 ***

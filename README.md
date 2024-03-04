@@ -1,3 +1,9 @@
+# ☣️
+```patch
+- MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS, LEAVE 
+```
+# ☣️
+
 # Stuxnet-Source
 - Related to `Brutal_Kangaroo`
 - (In)Directly related to the [nls_933w.dll file](https://github.com/loneicewolf/nls_933w_dll)

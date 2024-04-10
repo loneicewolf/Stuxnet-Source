@@ -1,25 +1,26 @@
 # ☣️
 ```patch
-- MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS, LEAVE 
+- MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS, LEAVE
++ I Will clean this up later on.
 ```
 # ☣️
 
+
 # Stuxnet-Source
-- Related to `Brutal_Kangaroo`
-- (In)Directly related to the [nls_933w.dll file](https://github.com/loneicewolf/nls_933w_dll)
-- 
-# please find it [here **only_malware**](https://github.com/loneicewolf/Stuxnet-Source/tree/ONLY_MALWARE)
+please find it [here **only_malware**](https://github.com/loneicewolf/Stuxnet-Source/tree/ONLY_MALWARE)
 
-***
-
-
-### related:
-- [Fanny.bmp - the Precursor to STUXNET](https://github.com/loneicewolf/fanny.bmp)
-
+## Related malware:
+- `Brutal_Kangaroo`
+- [Fanny.bmp - the Precursor /Derivative to StuxNet](https://github.com/loneicewolf/fanny.bmp)
+- [nls_933w.dll file](https://github.com/loneicewolf/nls_933w_dll)
 - [Gauss](Https://github.com/loneicewolf/Gauss-Src)
 - [Stars](https://github.com/loneicewolf/Stars-virus)
 - [Duqu](https://github.com/loneicewolf/DUQU)
-- [FlamER](https://github.com/loneicewolf/flame-sourcecode)
+- [FlamER](https://github.com/loneicewolf/flame-sourcecode) <- `fork`
+
+***
+
+<details><summary> UNSORTED README </summary>
 
 
 #### right now it is text and stuff all over the place; will clean it up (therefore Branch #2)
@@ -32,22 +33,7 @@
 will soon update this one with a live-demo of a simulated PLC workstation, which will be infiltrated(as a first step) (offline; (airgapped)) with fanny.bmp and then StuxNet; (and; why not infect it with gauss/duqu/regin and flame as well??) and try it on different types (64 bit; 32 bit; win xp; vista; ...)
 even though it (was designed) to just work on 1 specific thing; which had one specific PLC-config-block(you name it); it would do some;things like mark the system "don't infect this one; this is not the correct target" or.. "don't re infect this system; I am on it"-StuxnetWorm (how it *probably* reasoning)
 
-anyway; Will do this after my OSCP exam is passed;
-and when I verified I really do have the knowledge; not just 'passing'. But for this repo I will update it just after I have passed my OSCP exam.
 
-please; contact me for further details. mail and discord can be found on my Github Profile.
-
-
-**`will clean this up later.`**
-
-```
-
-```
--------------------------
-
-```
-
-```
 
 Old "update" message.
 --- - Recording (From scratch(0%), to 100%) of when StuXnet infects a PLC (although a virtual one, since I have not *real* access to a nuclear reactor.. For.. well, quite - **obvious reasons.**
@@ -171,21 +157,15 @@ BINS:
 ---
 
 
-**ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES**
+</details>
 
 
+- ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES
+- If you do not know what you are doing here, now would be a great time to leave! (Only proceed if you **do know** what you are doing)
 
-**If you do not know what you are doing here, now would be a great time to leave!**
-(Only proceed if you **do know** what you are doing)
+⚠️ **Please Be careful with this. This is only for research and Educational Purposes!  Nevertheless It goes without saying that even if you run these in a Virtual Machine, I would [still] USE CAUTION..** ⚠️
 
----
-
-
-
-**Please Be careful with this. This is only for research and Educational Purposes.**
-- **Nevertheless It goes without saying that even if you run these in a Virtual Machine, I would [still] USE CAUTION.**
-
----
 
 ## Password:
 INFECTEDIKNOWWHATIAMDOING
+

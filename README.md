@@ -15,8 +15,6 @@ please find it [here **only_malware**](https://github.com/loneicewolf/Stuxnet-So
 - [Fanny.bmp - the Precursor /Derivative to StuxNet](https://github.com/loneicewolf/fanny.bmp)
 - [nls_933w.dll file](https://github.com/loneicewolf/nls_933w_dll)
 - [Gauss](Https://github.com/loneicewolf/Gauss-Src)
-- [Stars](https://github.com/loneicewolf/Stars-virus)
-- [Duqu](https://github.com/loneicewolf/DUQU)
 - [FlamER](https://github.com/loneicewolf/flame-sourcecode) <- `fork`
 
 ***
@@ -164,7 +162,7 @@ BINS:
 - ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES
 - If you do not know what you are doing here, now would be a great time to leave! (Only proceed if you **do know** what you are doing)
 
-⚠️ **Please Be careful with this. This is only for research and Educational Purposes!  Nevertheless It goes without saying that even if you run these in a Virtual Machine, I would [still] USE CAUTION..** ⚠️
+⚠️ **Please Be careful with this. This is only for research and Educational Purposes! Even if you run these in a Virtual Machine, I would [still] USE CAUTION.** ⚠️
 
 
 ## Password:

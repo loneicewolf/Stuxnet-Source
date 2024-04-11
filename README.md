@@ -1,9 +1,10 @@
 # ☣️
 ```patch
 - MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS, LEAVE
-+ I Will clean this up later on.
 ```
 # ☣️
+
+*Finally cleaned this up, more on the way!* 
 
 
 # Stuxnet-Source

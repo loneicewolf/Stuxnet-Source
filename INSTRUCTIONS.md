@@ -35,3 +35,12 @@ both cases needs:
 
 
 
+---
+- Q: How to transfer malware to a victim system for analysis?
+- A: 3 ways I know of:
+1. USB (IRL) if VM, then: (Pass the USB trough to the VM `[`in e.g QEMU/KVM`]` you can do it via the `virt-manager` )
+2. HTTP (`Linux: python3 -m SimpleHTTPServer 4444` and then on `Windows: cmd.exe or internetexplorer (linux_ip:linux_port/malware.zip)`)
+3. SMB (`Linux: todo`, `Windows: todo`)
+4. Drag N Drop (VM)
+
+

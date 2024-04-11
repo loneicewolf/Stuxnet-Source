@@ -4,7 +4,10 @@
 ```
 # ☣️
 
-*Finally cleaned this up, more on the way!* 
+⚠️ **Please Be careful with this. This is only for research and Educational Purposes!**
+
+**Even if you run these in a Virtual Machine, I would [still] USE CAUTION.** ⚠️
+
 
 # Stuxnet-Source
 please find it [here **only_malware**](https://github.com/loneicewolf/Stuxnet-Source/tree/ONLY_MALWARE)
@@ -19,34 +22,9 @@ please find it [here **only_malware**](https://github.com/loneicewolf/Stuxnet-So
 
 ***
 
-<details><summary> UNSORTED README </summary>
-
-
-#### right now it is text and stuff all over the place; will clean it up (therefore Branch #2)
-[2nd branch](https://github.com/loneicewolf/Stuxnet-Source/tree/2022_clean)
-
 ![image](https://github.com/loneicewolf/Stuxnet-Source/assets/68499986/b6b9bb54-9b05-4a53-bfdc-1f175f1a9901)
 
-
-## MAJOR UPDATE: 
-will soon update this one with a live-demo of a simulated PLC workstation, which will be infiltrated(as a first step) (offline; (airgapped)) with fanny.bmp and then StuxNet; (and; why not infect it with gauss/duqu/regin and flame as well??) and try it on different types (64 bit; 32 bit; win xp; vista; ...)
-even though it (was designed) to just work on 1 specific thing; which had one specific PLC-config-block(you name it); it would do some;things like mark the system "don't infect this one; this is not the correct target" or.. "don't re infect this system; I am on it"-StuxnetWorm (how it *probably* reasoning)
-
-
-
-Old "update" message.
---- - Recording (From scratch(0%), to 100%) of when StuXnet infects a PLC (although a virtual one, since I have not *real* access to a nuclear reactor.. For.. well, quite - **obvious reasons.**
- - Recording (again, From 0 to 100%)  of how one can "re-weaponize" Fanny.bmp (or,DementiaWheel as it's codename suggests) the USB-Backdoor to carry commands from & to Metasploit. (This is tested and, let's just say - it works, but needs improvement. (Massive improvements that is)) <- Still working on it.
- - A mini-library written in C (in combination with Lua) to make (the 2 points above ) a **bit** more user-friendly 
- -    (JUST so you don't need to be a debugger-professional to understand how to get a reverse shell trough fanny's USB Backdoor for example.)
----
-
-
-
-                                                  *(Password below), on last line*
-
-- **(directly)** Related to fanny.bmp https://github.com/loneicewolf/fanny.bmp
-- (Not directly - but *somehow*) Related: Agent.btz (finally!) added binary sample:  (more coming) https://github.com/loneicewolf/Agent.btz
+<details><summary> UNSORTED README </summary>
 
 ## STUXNET
 *is a Worm that attacked Nuclear Power plants, trough unusual vulnerabilities. So-called 0Day vulnerabilities.*
@@ -54,11 +32,9 @@ Old "update" message.
 ## Basic Overview:
 
 Includes:
-- Source files,
-- Binaries,
-- PLC Sample program
-
----
+- Source files, (plc etc)
+- Binaries (malware etc)
+- PLC Sample program  (plc etc)
 
 ### fanny.bmp - (malware) what is it?
 - Fanny (known as fanny.bmp or, the classical a,b,c,d,e,...,__j__.lnk worm,(Is (likely) **not ** visible in Windows XP and such, (but I have seen some versions of it where it has a,b and c - all the way up to j)- on other versions of Windows.  
@@ -75,9 +51,6 @@ Includes:
 
 ## TREE OVERVIEW  ###
 Overview of Files in FILES.ZIP
-
----
-
 
 STUXNET.DLL_EMBEDDED_RSRCS:
 
@@ -158,11 +131,6 @@ BINS:
 
 </details>
 
-
-- ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES
-- If you do not know what you are doing here, now would be a great time to leave! (Only proceed if you **do know** what you are doing)
-
-⚠️ **Please Be careful with this. This is only for research and Educational Purposes! Even if you run these in a Virtual Machine, I would [still] USE CAUTION.** ⚠️
 
 
 ## Password:

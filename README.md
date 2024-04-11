@@ -6,11 +6,11 @@
 
 *Finally cleaned this up, more on the way!* 
 
-
 # Stuxnet-Source
 please find it [here **only_malware**](https://github.com/loneicewolf/Stuxnet-Source/tree/ONLY_MALWARE)
+---
 
-## Related malware:
+### Related malware:
 - `Brutal_Kangaroo`
 - [Fanny.bmp - the Precursor /Derivative to StuxNet](https://github.com/loneicewolf/fanny.bmp)
 - [nls_933w.dll file](https://github.com/loneicewolf/nls_933w_dll)

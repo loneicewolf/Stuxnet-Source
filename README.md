@@ -1,12 +1,7 @@
+### **$\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS  - LEAVE}}$**
+`Note: if you see a lot of   $\textcolor{red}{\     then you need to enable javascript; it's basically just Red Text.`
 
-# ☣️
-```patch
-- MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS, LEAVE
-```
-# ☣️
-DISCLAIMER.
-⚠️ **Please Be careful with this. This is only for research and Educational Purposes!**
-**Even if you run these in a Virtual Machine, I would [still] USE CAUTION.** ⚠️
+⚠️ **This is only for research and Educational Purposes! Even if you run these in a Virtual Machine, I would [still] USE CAUTION.** ⚠️
 
 # Stuxnet-Source
 please find it [here **only_malware**](https://github.com/loneicewolf/Stuxnet-Source/tree/ONLY_MALWARE)

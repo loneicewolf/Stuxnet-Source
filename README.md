@@ -5,4 +5,4 @@
 # ☣️
 
 ## password(s):
-`infected` or `INFECTEDIKNOWWHATIAMDOING`
+`infected` 

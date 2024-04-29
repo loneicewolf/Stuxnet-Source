@@ -1,20 +1,24 @@
-### **$\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS  - LEAVE}}$**
-
-`Note: if you see a lot of   $\textcolor{red}{\     then you need to enable javascript; it's basically just Red Text.`
-
-### **$\textcolor{cyan}{\textsf{ LATEST UPDATE: }}$** PLC ROOTKIT is provided.
-```
-
-
-
-```
 ⚠️ **This is only for research and Educational Purposes! Even if you run these in a Virtual Machine, I would [still] USE CAUTION.** ⚠️
 
-# Stuxnet-Source
+### **$\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS  - LEAVE}}$**
+### **$\textcolor{cyan}{\textsf{ LATEST UPDATE: }}$** PLC ROOTKIT is provided.
+- `Note: if you see a lot of   $\textcolor{red}{\     then you need to enable javascript; it's basically just Red Text.`
+- NOTE: The malware itself is in the other branch (ALL PROVIDED)
+- and if you see `need PK compat. v5.1 (can do v4.6)` you just need to install `engrampa` for example, on linux. I Use qubes for malwares and engrampa to pack the infected archives.
 please find it [here **only_malware**](https://github.com/loneicewolf/Stuxnet-Source/tree/ONLY_MALWARE)
----
 
-## Please see the folders (especially the 'screenshots` one)
+```
+
+
+
+```
+
+```
+
+
+
+```
+
 
 ### Related malware:
 - `Brutal_Kangaroo`

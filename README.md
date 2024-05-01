@@ -1,5 +1,7 @@
-⚠️ **This is only for research and Educational Purposes! Even if you run these in a Virtual Machine, I would [still] USE CAUTION.** ⚠️
+purpose of this: a collection of stuxnet-related files I have gathered from various sources in order to make it more public for researchers (to help AVs',etc)
 
+
+### ⚠️ **This is only for research and Educational Purposes! Even if you run these in a Virtual Machine, I would [still] USE CAUTION.** ⚠️
 ### **$\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS  - LEAVE}}$**
 ### **$\textcolor{cyan}{\textsf{ LATEST UPDATE: }}$** PLC ROOTKIT is provided.
 - `Note: if you see a lot of   $\textcolor{red}{\     then you need to enable javascript; it's basically just Red Text.`

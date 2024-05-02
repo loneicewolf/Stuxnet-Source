@@ -1,4 +1,6 @@
-purpose of this: a collection of stuxnet-related files I have gathered from various sources in order to make it more public for researchers (to help AVs',etc)
+purpose of this: a collection of stuxnet-related files I have gathered from various sources in order to make it more public for researchers (to help AVs',etc) Note some is extracted, analyzed, dumped, etc. And so on. 
+## Why make this repo
+- Why I make this repo is its easy to find samples of stuxnet (actual infections n stuff) but dumped stuff, de-hexed, de-obfuscated, analyzed, outputs, dumps, memory dumps, etc, is very difficult to find. Same with  fanny.bmp and other malwares in the same malware family. So that's why I make this repo.
 
 
 ### ⚠️ **This is only for research and Educational Purposes! Even if you run these in a Virtual Machine, I would [still] USE CAUTION.** ⚠️

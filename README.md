@@ -1,28 +1,18 @@
+**$\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS  - LEAVE}}$**
+
+⚠️This is only for research and Educational Purposes! Even if you run these in a Virtual Machine, I would [still] USE CAUTION. ⚠️
+
+---
+
 purpose of this: a collection of stuxnet-related files I have gathered from various sources in order to make it more public for researchers (to help AVs',etc) Note some is extracted, analyzed, dumped, etc. And so on. 
-## Why make this repo
-- Why I make this repo is its easy to find samples of stuxnet (actual infections n stuff) but dumped stuff, de-hexed, de-obfuscated, analyzed, outputs, dumps, memory dumps, etc, is very difficult to find. Same with  fanny.bmp and other malwares in the same malware family. So that's why I make this repo.
+Why I make this repo is its easy to find samples of stuxnet (actual infections n stuff) but dumped stuff, de-hexed, de-obfuscated, analyzed, outputs, dumps, memory dumps, etc, is very difficult to find. Same with  fanny.bmp and other malwares in the same malware family. So that's why I make this repo.
+**$\textcolor{cyan}{\textsf{ LATEST UPDATE: }}$** PLC ROOTKIT and RESEARCH REPORT is provided.
 
-
-### ⚠️ **This is only for research and Educational Purposes! Even if you run these in a Virtual Machine, I would [still] USE CAUTION.** ⚠️
-### **$\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS  - LEAVE}}$**
-### **$\textcolor{cyan}{\textsf{ LATEST UPDATE: }}$** PLC ROOTKIT is provided.
-- `Note: if you see a lot of   $\textcolor{red}{\     then you need to enable javascript; it's basically just Red Text.`
-- NOTE: The malware itself is in the other branch (ALL PROVIDED)
+# ☣️ for the malware itself
+# please find it [here **only_malware**](https://github.com/loneicewolf/Stuxnet-Source/tree/ONLY_MALWARE)
 - and if you see `need PK compat. v5.1 (can do v4.6)` you just need to install `engrampa` for example, on linux. I Use qubes for malwares and engrampa to pack the infected archives.
-please find it [here **only_malware**](https://github.com/loneicewolf/Stuxnet-Source/tree/ONLY_MALWARE)
 
-```
-
-
-
-```
-
-```
-
-
-
-```
-
+===================================================================================================
 
 ### Related malware:
 - `Brutal_Kangaroo`
@@ -145,5 +135,7 @@ BINS:
 
 
 ## Password:
-INFECTEDIKNOWWHATIAMDOING
+- INFECTEDIKNOWWHATIAMDOING
+- infected
 
+- `Note: if you see a lot of   $\textcolor{red}{\     then you need to enable javascript; it's basically just Red Text.`

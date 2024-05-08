@@ -3,6 +3,8 @@
 
 ⚠️This is only for research and Educational Purposes! Even if you run these in a Virtual Machine, I would [still] USE CAUTION. ⚠️
 
+☢️ samples is not entirely mine, same with reports, I include samples and reports from many different sources, to make it easier to find "one in all repo". ☢️
+
 ---
 
 purpose of this: a collection of stuxnet-related files I have gathered from various sources in order to make it more public for researchers (to help AVs',etc) Note some is extracted, analyzed, dumped, etc. And so on. 

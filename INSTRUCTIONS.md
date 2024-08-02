@@ -44,3 +44,11 @@ both cases needs:
 4. Drag N Drop (VM)
 
 
+## TOOLS
+- https://github.com/Fyyre/kerneldetective
+- https://github.com/Fyyre/DrvMon
+- https://github.com/hasherezade/crypto_utils
+
+
+
+

@@ -11,9 +11,9 @@ Yours sincerely,
 
 </div>
 
-Please see the `THANKS_TO.md` file for people I consider helpful in building this repo!
-
 ---
+
+<sub>Please see the `THANKS_TO.md` file for people I consider helpful in building this repo!</sub>
 
 ## Table of Contents
 

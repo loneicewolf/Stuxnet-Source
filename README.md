@@ -8,7 +8,10 @@ It's been a nice journey, even though I still needed to take breaks, it was fun 
 Yours sincerely,
 
 *Will*
+
 </div>
+
+Please see the `THANKS_TO.md` file for people I consider helpful in building this repo!
 
 ---
 

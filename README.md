@@ -1,27 +1,31 @@
-**$\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS  - LEAVE}}$**
 
-```
- 
- 
-```
+<div align="center">
+ <h2>  $\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS - LEAVE}}$</h2>
 
 I am happy that my [GitHub's Repo About Stuxnet](https://github.com/loneicewolf/Stuxnet-Source) has been helpful in The research paper [handson-report-McDougall-Ugas.pdf](https://github.com/loneicewolf/Stuxnet-Source/blob/main/Docs/handson-report-McDougall-Ugas-FINAL.pdf) from McDougall & Ugas).
-It's been a nice journey and I hope to contribute more to this field! 
+It's been a nice journey, even though I took a break while contributing, it was what kept me going! and I hope to contribute more to this field! 
 Over n Out!
 
 your sincerely,
 
 *Will*. 
 
+</div>
+
+
 ```
  
  
+ 
+ 
+  
+ 
 ```
+ For those who don't know, Stuxnet is a worm(malware) that affected power plants. **That's StuxNet in a nutshell**
 
 - ⚠️This is only for research and Educational Purposes! Even if you run these in a Virtual Machine, I would [still] USE CAUTION. ⚠️
 - ☢️ samples is not entirely mine, same with reports, I include samples and reports from many different sources, to make it easier to find "one in all repo". ☢️
 
----
 
 purpose of this: a collection of stuxnet-related files I have gathered from various sources in order to make it more public for researchers (to help AVs',etc) Note some is extracted, analyzed, dumped, etc. And so on. 
 Why I make this repo is its easy to find samples of stuxnet (actual infections n stuff) but dumped stuff, de-hexed, de-obfuscated, analyzed, outputs, dumps, memory dumps, etc, is very difficult to find. Same with  fanny.bmp and other malwares in the same malware family. So that's why I make this repo.

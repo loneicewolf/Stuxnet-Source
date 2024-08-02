@@ -177,14 +177,14 @@ Fanny (known as fanny.bmp or the classical a, b, c, d, e, ..., __j__.lnk worm) i
 
 ## Acknowledgments
 
-<div align="center" style="color: #ff6347;">
+<div align="center" style="color: #ff6341;">
   I would like to personally thank <b>McDougall</b> and <b>Ugas</b> from FSU (<b>F</b>lorida <b>S</b>tate <b>U</b>niversity) for their invaluable research, as well as for including me and my contribution (this repo) in their paper. It has been an honor to collaborate and contribute to this field.
   
-  I also want to extend my gratitude to the developers of the tools that have been essential for my analysis, including:
+  I also want to extend my gratitude to the **reverse engineers** of the **tools** that have been essential for my analysis, including:
   <br><br>
-  <a href="https://github.com/fyyre" style="color: #ff6347;"><b>Fyyre</b></a> for their repositories, <a href="https://github.com/Fyyre/DrvMon" style="color: #ff6347;"><b>DrvMon</b></a> and <a href="https://github.com/Fyyre/kerneldetective" style="color: #ff6347;"><b>kerneldetective</b></a>.
+  <a href="https://github.com/fyyre" style="color: #ff6341;"><b>Fyyre</b></a> for their repositories, <a href="https://github.com/Fyyre/DrvMon" style="color: #ff6341;"><b>DrvMon</b></a> and <a href="https://github.com/Fyyre/kerneldetective" style="color: #ff6341;"><b>kerneldetective</b></a>.
   <br>
-  <a href="https://github.com/mandiant" style="color: #ff6347;"><b>Mandiant</b></a> for their tool <a href="https://github.com/mandiant/flare-floss" style="color: #ff6347;"><b>flare-floss</b></a>.
+  <a href="https://github.com/mandiant" style="color: #ff6341;"><b>Mandiant</b></a> for their tool <a href="https://github.com/mandiant/flare-floss" style="color: #ff6341;"><b>flare-floss</b></a>.
   <br><br>
   Your contributions have been instrumental in my research.
   <br><br>

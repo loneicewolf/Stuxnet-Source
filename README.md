@@ -29,6 +29,7 @@ Yours sincerely,
   - [Related Articles](#related-articles)
 - [Tree Overview](#tree-overview)
   - [Files in FILES.ZIP](#files-in-fileszip)
+ - [Acknowledgments](#acknowledgments)
 - [Password for Encrypted Files](#password-for-encrypted-files)
 
 ---
@@ -85,10 +86,8 @@ Includes:
 - PLC Sample Programs
 
 ### Fanny.bmp Overview
-
 Fanny (known as fanny.bmp or the classical a, b, c, d, e, ..., __j__.lnk worm) is malware likely not visible on Windows XP and earlier versions. It propagates through removable USB devices, using a sophisticated rootkit that hides itself and adds itself to startup in the Windows registry. It also has the capability to reprogram hardware, such as HDD firmware, for extreme persistence. It exploited the same vulnerabilities as Stuxnet and was used before Stuxnet.
 
-- Link to Fanny.bmp: [Fanny.bmp](https://github.com/loneicewolf/fanny.bmp)
 
 ### Related Articles
 
@@ -172,6 +171,28 @@ Fanny (known as fanny.bmp or the classical a, b, c, d, e, ..., __j__.lnk worm) i
 | A_30DF51C9F0D9B010350DC09ABE1E4E97.ex$                                                    |
 
 </details>
+
+
+---
+
+## Acknowledgments
+
+<div align="center" style="color: #ff6347;">
+  I would like to personally thank <b>McDougall</b> and <b>Ugas</b> from FSU (<b>F</b>lorida <b>S</b>tate <b>U</b>niversity) for their invaluable research, as well as for including me and my contribution (this repo) in their paper. It has been an honor to collaborate and contribute to this field.
+  
+  I also want to extend my gratitude to the developers of the tools that have been essential for my analysis, including:
+  <br><br>
+  <a href="https://github.com/fyyre" style="color: #ff6347;"><b>Fyyre</b></a> for their repositories, <a href="https://github.com/Fyyre/DrvMon" style="color: #ff6347;"><b>DrvMon</b></a> and <a href="https://github.com/Fyyre/kerneldetective" style="color: #ff6347;"><b>kerneldetective</b></a>.
+  <br>
+  <a href="https://github.com/mandiant" style="color: #ff6347;"><b>Mandiant</b></a> for their tool <a href="https://github.com/mandiant/flare-floss" style="color: #ff6347;"><b>flare-floss</b></a>.
+  <br><br>
+  Your contributions have been instrumental in my research.
+  <br><br>
+  Yours sincerely,<br>
+  Will
+</div>
+
+
 
 ## Password for Encrypted Files
 If you still are sure you want to explore it, below is a clickable element that will display the password to the archive. When you do, no guarantees. Aka you are on your own.

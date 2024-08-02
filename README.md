@@ -1,9 +1,25 @@
 **$\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS  - LEAVE}}$**
-# **$\textcolor{cyan}{\textsf{ LATEST UPDATE: }}$** PLC ROOTKIT & RESEARCH doc is provided.
 
-⚠️This is only for research and Educational Purposes! Even if you run these in a Virtual Machine, I would [still] USE CAUTION. ⚠️
+```
+ 
+ 
+```
 
-☢️ samples is not entirely mine, same with reports, I include samples and reports from many different sources, to make it easier to find "one in all repo". ☢️
+I am happy that my [GitHub's Repo About Stuxnet](https://github.com/loneicewolf/Stuxnet-Source) has been helpful in The research paper [handson-report-McDougall-Ugas.pdf](https://github.com/loneicewolf/Stuxnet-Source/blob/main/Docs/handson-report-McDougall-Ugas-FINAL.pdf) from McDougall & Ugas).
+It's been a nice journey and I hope to contribute more to this field! 
+Over n Out!
+
+your sincerely,
+
+*Will*. 
+
+```
+ 
+ 
+```
+
+- ⚠️This is only for research and Educational Purposes! Even if you run these in a Virtual Machine, I would [still] USE CAUTION. ⚠️
+- ☢️ samples is not entirely mine, same with reports, I include samples and reports from many different sources, to make it easier to find "one in all repo". ☢️
 
 ---
 

@@ -1,5 +1,5 @@
 <div align="center">
-<h3>$\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS - LEAVE}}$ </h3>
+<h3>MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS - LEAVE</h3>
 
 I am happy that my [GitHub Repo on Stuxnet](https://github.com/loneicewolf/Stuxnet-Source) has been helpful in the [research paper ](https://github.com/loneicewolf/Stuxnet-Source/blob/main/Docs/handson-report-McDougall-Ugas-FINAL.pdf) by McDougall & Ugas.
 
@@ -7,7 +7,10 @@ It's been a nice journey, even though I still needed to take breaks, it was fun 
 
 Yours sincerely,
 
+
 *Will*
+
+<sub> This is now done! Which is why I am archiving this. </sub>
 
 </div>
 

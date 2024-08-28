@@ -105,6 +105,11 @@ Fanny (known as fanny.bmp or the classical a, b, c, d, e, ..., __j__.lnk worm) i
 
 ### Files in FILES.ZIP
 
+|  Special files    |
+|----------------|
+| PLC_ROOTKIT     |
+
+
 **STUXNET.DLL_EMBEDDED_RSRCS:**
 
 | File Name      |
